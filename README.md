@@ -31,9 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
 </p>
 
-🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hruthikn06&theme=default&hide_border=false)](https://git.io/streak-stats)
 
 📈 Most Used Languages 
 
