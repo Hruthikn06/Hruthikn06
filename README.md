@@ -9,9 +9,11 @@
 🤝 Looking to collaborate on: Open-source, ML Projects, Data Analytics  
 🧠 Hobbies: Football, Video Editing, Animations, Tech Blogging  
 
-📫 Reach me at: hruthikn06@gmail.com
-🔗 LinkedIn: [linkedin.com/in/hruthikn06](https://linkedin.com/in/hruthikn06)  
-📁 Resume: [View Resume](YOUR_RESUME_LINK)
+📫 Reach me at:  
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Gmail: hruthikn06@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 LinkedIn:https://linkedin.com/in/hruthikn06
+
+📁 Resume:https://drive.google.com/file/d/1dyUon4jV3QMgeUM4uQ4P0_PJKiMex8S9/view
 
 🛠️ Languages and Tools:
 
