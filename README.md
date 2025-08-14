@@ -1,4 +1,4 @@
-👋 Hi there, I’m Hruthik N 
+👋 Hi there, I’m Hruthik N.
 
 🎓 Final-year Computer Science Engineering student  
 🌱 Currently learning: Machine Learning, SQL, Python, Cloud Computing  
