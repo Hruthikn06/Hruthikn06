@@ -41,9 +41,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Hruthikn06&color=blue&style=flat)
 
 
-📊 GitHub Stats  
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Hruthikn06&show_icons=true&theme=default&bg_color=ffffff&border_radius=8)  
 
 
 
