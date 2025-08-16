@@ -43,11 +43,11 @@
 
 📊 GitHub Stats  
 
-![Hruthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hruthikn06&show_icons=true&theme=default&bg_color=ffffff&border_radius=8)  
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Hruthikn06&show_icons=true&theme=default&bg_color=ffffff&border_radius=8)  
 
 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Hruthikn06&theme=flat&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hruthikn06&theme=flat&column=3)
 
 ⚡ Fun Fact  
 I can debug my code faster with music 🎧
